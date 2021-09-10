@@ -1,3 +1,3 @@
 # Mobile-Application
 
-Untuk File tugasnya ganti jadi branches jadi master
+Untuk File tugasnya ganti branches jadi master
